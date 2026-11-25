@@ -1,0 +1,7 @@
+--index-url https://packagefeedproxy.microsoft.io/pypi/simple
+
+agent-framework-core==1.26.0
+agent-framework-foundry==1.16.2
+agent-framework-foundry-hosting==1.0.0b261112
+azure-identity==1.25.3
+python-dotenv==1.2.3

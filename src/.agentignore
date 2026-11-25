@@ -1,0 +1,4 @@
+# The Toolkit reads this at the source root instead of other ignore files.
+**
+!main.py
+!requirements.txt
